@@ -83,7 +83,7 @@ footer {
     width: 100%;
     display: flex;
     text-align: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
     background-color: var(--base-color-2);
     color: var(--base-color-1);
 }

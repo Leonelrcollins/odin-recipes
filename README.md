@@ -1,2 +1,2 @@
 # odin-recipes
-A desserts menu with its instructions and ingredients.
+A sweets menu with its instructions and ingredients.
