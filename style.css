@@ -97,6 +97,10 @@ footer {
     color: var(--main-color);
 }
 
+footer > p {
+    margin-left: -50px;
+}
+
 /* Links */
 .links {
     text-decoration: none;
